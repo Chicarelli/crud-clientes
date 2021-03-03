@@ -57,7 +57,7 @@ useEffect(()=> {
         ))
         
         }
-        {!addCliente &&
+        {(!addCliente && idRestaurante!=0) && 
             <S.Button onClick={e=>{setAddCliente(!addCliente)}}>{contentButton}</S.Button>
         }
 
