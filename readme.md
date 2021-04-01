@@ -4,22 +4,22 @@ O primeiro passo é a autenticação do usuário via JWT. Caso o usuário tente 
 
 - Tela de Login: 
 
-<img src='./tela-login.PNG' alt='Tela de Login'/>
+<img src='https://github.com/Chicarelli/apiClientes/blob/master/tela-login.PNG' alt='Tela de Login'/>
 
 Após autenticação feita e reconhecida pela api, a tela inicial é apresentada ao usuário: 
 
-<img src='./tela-dashboard.PNG' alt='Tela Inicial'/>
+<img src='https://github.com/Chicarelli/apiClientes/blob/master/tela-dashboard.PNG' alt='Tela Inicial'/>
 
 A tela inicial consiste, além do logo, um campo Select para selecionar os estabelecimentos cadastrados. 
 
 Após selecionar o estabelecimento desejado, uma tela com os clientes cadastrados aparece ao usuário e com ele, a possibilidade de adicionar novos clientes. 
 
-<img src="./tela-clientes.PNG" alt="Tela de Clientes"/>
+<img src="https://github.com/Chicarelli/apiClientes/blob/master/tela-clientes.PNG" alt="Tela de Clientes"/>
 
 Com isso, há a possibilidade do administrador editar os dados dos clientes:
 
-<img src="./tela-edica-clientes.PNG" alt="Edição de Clientes"/>
+<img src="https://github.com/Chicarelli/apiClientes/blob/master/tela-edica-clientes.PNG" alt="Edição de Clientes"/>
 
 E também, a tela de acrescentar um novo usuário: 
 
-<img src="./tela-adicionar-novo-cliente.PNG" alt="Tela para adicionar um novo cliente"/>
+<img src="https://github.com/Chicarelli/apiClientes/blob/master/tela-adicionar-novo-cliente.PNG" alt="Tela para adicionar um novo cliente"/>
